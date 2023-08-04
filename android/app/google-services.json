@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "327863972207",
+    "project_id": "order-easy-user",
+    "storage_bucket": "order-easy-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327863972207:android:b4e64e461361818398f89a",
+        "android_client_info": {
+          "package_name": "com.order_easy.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327863972207-0r1q2cfctlve5a62b5i0397hefv00pk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.order_easy.user",
+            "certificate_hash": "ccf91960c85b04dab57ffbab0eb540c1b8d037f9"
+          }
+        },
+        {
+          "client_id": "327863972207-8ra0q0d1oimf1bf3fm878cpglthh9eql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp89uYY01Ndapk5qHz6JV7eePev1XKagc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327863972207-8ra0q0d1oimf1bf3fm878cpglthh9eql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
